@@ -19,7 +19,7 @@ int main(void)
 		putchar (lowerCase);
 		lowerCase++;
 	}
-	while (uppercase <= 'Z')
+	while (upperCase <= 'Z')
 	{
 		putchar (upperCase);
 		upperCase++;
