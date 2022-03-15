@@ -3,10 +3,11 @@
 #include "main.h"
 
 /**
-  main - this program is to print _putchar
+ *main - this program is to print _putchar
  *
- * Return: (0)
+ * Return: 0 (Success)
  */
+
 int main(void)
 {
 
