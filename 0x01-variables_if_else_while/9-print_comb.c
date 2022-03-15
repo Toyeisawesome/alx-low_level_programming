@@ -2,22 +2,22 @@
 #include<stdlib.h>
 
 /**
- * main - base 16
+ * main - 0-9
  *
  * Return: 0 (Success)
  */
 int main(void)
 {
-	int num;
-	char alph;
+	int numbe;
 
-	for (num = 0; num <= 9; num++)
+	for (numbe = 0; numbe <= 9; numbe++)
 	{
-		putchar(num % 10 + '0');
-	}
-	for (alph = 'a'; alph <= 'f'; alph++)
-	{
-		putchar(alph);
+		putchar(numbe % 10 + '0');
+		if (numbe < 9)
+		{
+		putchar(',');
+		putchar(' ');
+		}
 	}
 	putchar('\n');
 	return (0);
