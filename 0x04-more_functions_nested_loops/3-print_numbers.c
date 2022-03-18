@@ -1,6 +1,6 @@
+#include "main.h"
 #include<stdio.h>
 #include<stdlib.h>
-#include "main.h"
 
 /**
  * main - a function that prints the numbers, from 0 to 9
