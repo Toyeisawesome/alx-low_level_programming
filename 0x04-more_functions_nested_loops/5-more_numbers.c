@@ -8,6 +8,7 @@
  * _putchar can only be used 3 times
  *
  * Return: 0-14 x10 followed by new line
+ *
  */
 void more_numbers(void)
 {
