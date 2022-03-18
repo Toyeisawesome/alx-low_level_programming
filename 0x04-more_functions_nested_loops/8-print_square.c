@@ -1,6 +1,6 @@
 #include "main.h"
 #include<stdio.h>
-#include<stdlib.c>
+#include<stdlib.h>
 
 /**
  * main - a function that prints a square, followed by a straight line
