@@ -1,13 +1,15 @@
 #include "main.h"
+#include<stdio.h>
+#include<stdlib.c>
 
 /**
  * main - a function that prints a square, followed by a straight line
  *
- * Return: a square made of '#'
+ * Return: a square of '#'
  */
 void print_square(int size)
 {
-	int co. ro;
+	int co, ro;
 
 	if (size <= 0)
 	{
