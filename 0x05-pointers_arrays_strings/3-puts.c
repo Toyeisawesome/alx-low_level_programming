@@ -6,7 +6,7 @@
  * main - prints a string
  * @str: the string
  *
- * Return: the lenght of a string
+ * Return: the length of a string
  */
 void _puts(char *str)
 {
