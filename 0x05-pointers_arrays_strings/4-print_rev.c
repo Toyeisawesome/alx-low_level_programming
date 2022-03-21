@@ -6,7 +6,7 @@
  * main - prints a string in reverse
  * @s: string
  *
- * Return: a string in reverse 
+ * Return: a string in reverse
  */
 void print_rev(char *s)
 {
