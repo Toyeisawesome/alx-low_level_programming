@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main prints every other character of a string
+ * puts2 - prints every other character of a string
  * @str: the string to print
  *
  */

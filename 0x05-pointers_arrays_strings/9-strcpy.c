@@ -3,7 +3,7 @@
 #include<stdlib.h>
 
 /**
- * main - copies the string
+ * *_strcpy - copies the string
  * @dest: array that returns
  * @src: the pointer that receives the string
  *

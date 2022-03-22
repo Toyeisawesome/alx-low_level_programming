@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - reverses a string
+ * rev_string - reverses a string
  * @s: holi
  *
  */

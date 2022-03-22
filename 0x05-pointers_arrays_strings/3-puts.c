@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - prints a string
+ * _puts - prints a string
  * @str: the string
  *
  * Return: the length of a string
