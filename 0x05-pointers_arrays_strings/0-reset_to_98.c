@@ -2,9 +2,10 @@
 #include<stdlib.h>
 #include "main.h"
 /**
- * main - first task
+ * reset_to_98 - takes a pointer to an int as parameter
+ * and updates he value it points to 98
  *
- * @n: takes the value
+ * @n: parameter to take the value
  *
  */
 void reset_to_98(int *n)
