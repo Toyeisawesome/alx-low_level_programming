@@ -22,7 +22,7 @@ int find_root(int n, int i)
 	}
 }
 /**
- * _sort_recursion - calculates the natural square root of n
+ * _sqrt_recursion - calculates the natural square root of n
  * @n: base number
  *
  * Return: the square root of n
@@ -39,5 +39,5 @@ int _sqrt_recursion(int n)
 	{
 		return (n);
 	}
-	return(find_root(n, 2));
+	return (find_root(n, 2));
 }
