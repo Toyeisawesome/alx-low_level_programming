@@ -14,7 +14,9 @@ dog_t *new_dog(char *name, float age, char *owner)
 	/* reserving memory to struct*/
 	p = malloc(sizeof(dog_t));
 	if (p == NULL)
+	{
 		return (NULL);
+	}
 	/* Counting name pointer*/
 	if (name == NULL)
 	{
