@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - prints the name of the file it was compiled from, followed by a new line
+ * main - checks the code for name of file
  *
  * Return: 1 if an error occured, 0 otherwise
  */
